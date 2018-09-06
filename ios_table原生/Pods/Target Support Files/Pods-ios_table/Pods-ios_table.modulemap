@@ -1,0 +1,6 @@
+framework module Pods_ios_table {
+  umbrella header "Pods-ios_table-umbrella.h"
+
+  export *
+  module * { export * }
+}
